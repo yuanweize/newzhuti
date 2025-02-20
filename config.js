@@ -7,7 +7,7 @@ window._config = {
     download: {             // 客户端下载地址
         window: 'https://wwet.lanzn.com/ithDg2ocevmb',
         android: 'https://wwet.lanzn.com/itZMg2ocf0uj',
-        ios: 'https://princedent-lf2ttp.stormkit.dev/guide/ios/shadowrocket.html',
+        ios: 'https://duomihost.github.io',
         macos M芯片: 'https://wwet.lanzn.com/iByDf2ocffmb',
         macos Intel芯片: 'https://wwet.lanzn.com/iUMu22ocfo7a',
     }
