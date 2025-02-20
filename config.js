@@ -5,10 +5,11 @@ window._config = {
     crisp: '54e550e4-66fc-4031-b121-581b7e38a322',              // Crisp ID
     Chatra: '',             // Chatra ID
     download: {             // 客户端下载地址
-        window: 'https://www.123pan.com/s/Psbbjv-zVhVd',
-        android: 'https://www.123pan.com/s/Psbbjv-zVhVd',
+        window: 'https://wwet.lanzn.com/ithDg2ocevmb',
+        android: 'https://wwet.lanzn.com/itZMg2ocf0uj',
         ios: 'https://princedent-lf2ttp.stormkit.dev/guide/ios/shadowrocket.html',
-        macos: 'https://www.123pan.com/s/Psbbjv-zVhVd',
+        macos M芯片: 'https://wwet.lanzn.com/iByDf2ocffmb',
+        macos Intel芯片: 'https://wwet.lanzn.com/iUMu22ocfo7a',
     }
 }
 
